@@ -1,6 +1,6 @@
 # School District Analysis
 
-## Overview of Election Audit:
+## Overview of School District Analysis:
 
 A school board and Maria have asked us to redo analysis on school and student performance due to evidence of academic dishonesty regarding reading and math scores for 9th graders at Thomas High School.  The following tasks have been requested.
 
