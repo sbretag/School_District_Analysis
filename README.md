@@ -17,12 +17,10 @@ A school board and Maria have asked us to redo analysis on school and student pe
 
 ### District Summary
 
+![].https://github.com/sbretag/School_District_Analysis/blob/main/Resources/District_Summary_Comparison.png)
 
 
 
-
-#### Original vs New District Summary Analysis
-![](https://github.com/sbretag/Election_Analysis/blob/main/Analysis/Election_Results_TextOutput.png)
 
 [Terminal Output of Audit Results](https://github.com/sbretag/Election_Analysis/blob/main/Analysis/Election_Results_TerminalOutput.png)
 
