@@ -2,16 +2,16 @@
 
 ## Overview of School District Analysis:
 
-A school board and Maria have asked us to redo analysis on school and student performance due to evidence of academic dishonesty regarding reading and math scores for 9th graders at Thomas High School.  The following tasks have been requested.
+A school board and Maria have asked us to redo analysis on school and student performance due to evidence of academic dishonesty regarding reading and math scores for 9th graders at Thomas High School.  The following tasks and analysis have been requested.
 
 1. Replace reading and math scores for 9th graders at Thomas High School with NaN
 2. Repeat the school analysis excluding Thomas High School reading 9th grade reading and math scores
 3. Provide a written summary on the impacts of excluding the scores in the analysis versus the original analysis
 
 ## Resources
-- [Voting Data Source: Election Results.csv](https://github.com/sbretag/Election_Analysis/blob/main/Resources/election_results.csv)
-- Software: Python 3.8.8, Visual Studio 1.57.1
-- [Python Script](https://github.com/sbretag/Election_Analysis/blob/main/PyPoll_Challenge.py)
+- [School Data Source](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/schools_complete.csv)
+- [Studen Data Source](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/students_complete.csv)
+- Software: Jupyter Lab, Python 3.8.8
 
 ## Audit Results
 
