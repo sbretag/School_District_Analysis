@@ -15,29 +15,25 @@ A school board and Maria have asked us to redo analysis on school and student pe
 
 ## Results
 
-### District Summary
-![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/District_Summary_Comparison.png)
-#### Differences
-- No change to total schools, students, and budget because scores were excluding for the Thomas High School (THS) 9th grader scores in the new analsysis.
-- Average math scores dipped 10 basis points while the average reading score remained relatively flat
-- % Passing Math and % Passing Reading dipped 20 basis points and 10 basis points respectively
-- % Overall passing dropped 30 basis points
+### Affects on District Summary
 
 
-
-[Terminal Output of Audit Results](https://github.com/sbretag/Election_Analysis/blob/main/Analysis/Election_Results_TerminalOutput.png)
-
-#### Original vs New School Summary Analysis
+### Affects on School Summary
 
 
-### School Summary
+### Affects on Thomas High School's Performance Relative to Other Schools
 
 
+### Affects on Scores by Grade
 
+
+### Affects on Scores by School Spending
+
+### Affects on Scores by School Size
+
+### Affects on Scores by School Type
 
 
 ## Summary
-Overall, the results of the audit were collected in an accurate and efficient manner using python code.  Given the success, we would like to propose handling all future election audits in both states and nationally.  The script used to perform an audit in this election is flexible and with minor modifications it can handle other types of elections with the same success.  Here are a few examples:
-  1. Assuming the source data is available, we could provide more granuluar audit results by zip code by adding a new list for zip codes and creating votes by zip code dictionary.  By running through a similiar script as we did for county results, we could provide an output of vote count by zip code and zip code votes as % of overall total.
-  2. For election results that have more than one type of race such as the house and senate, we could expand the script to include a list of the different races and a dictionary with a the candidates associated with each race.  In addition to adding data structures, a new for loop would need to be added to go through all of the different races and a condition would need to be added to filter on the candidates only associated with the particular race that's being analyzed in the for loop. 
-  
+
+SUmmarize four changes in the updated school district analysis after reading and math scores for the ninth grade at THomas High School have been replaced with NaNs
