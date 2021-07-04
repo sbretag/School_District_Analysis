@@ -17,8 +17,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 
 ### District Summary
 
-![].https://github.com/sbretag/School_District_Analysis/blob/main/Resources/District_Summary_Comparison.png)
-
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/District_Summary_Comparison.png)
 
 
 
