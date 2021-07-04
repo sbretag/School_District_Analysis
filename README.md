@@ -16,9 +16,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 ## Results
 
 ### District Summary
-
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/District_Summary_Comparison.png)
-
 #### Differences
 - No change to total schools, students, and budget because scores were excluding for the Thomas High School (THS) 9th grader scores in the new analsysis.
 - Average math scores dipped 10 basis points while the average reading score remained relatively flat
