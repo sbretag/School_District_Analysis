@@ -17,7 +17,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 
 ### Affects on District Summary
 
-[!](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_District_Summary.png)
+![New District Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_District_Summary.png)
 
 
 ### Affects on School Summary
