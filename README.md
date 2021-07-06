@@ -27,7 +27,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 - No change to total schools, total students or total budget as only the scores were removed for Thomas High School (THS) 9th graders.  The students were still included in the total student count.
 - Average math score dropped by 10 basis points (bps) and average reading score remained relatively flat
 - % Passing Math and % Passing Reading dropped 20 and 10 bps resepectively
-- Overall passing % dropped by 3 bps
+- Overall passing % dropped by 30 bps
 
 ### Impact on School Summary
 
