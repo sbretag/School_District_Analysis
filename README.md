@@ -118,7 +118,13 @@ A school board and Maria have asked us to redo analysis on school and student pe
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Scores_BySchool_Type.png)
 
 #### New vs Original Scores by School Type
-
+- Because Thomas High School is a charter school, there is only an impact to the charter school category
+- For charter schools
+  - No material change to average math or reading scores
+  - % Passing math reduced by 1 bps
+  - % Passing reading reduced by 4 bps
+  - % Overall passing reduced by 4 bps
+- Overall, removing THS 9th grader scores does not result in a different story when it comes to school type, passing %'s remain significantly higher for charter schools than non charter schools
 
 ## Summary
 
