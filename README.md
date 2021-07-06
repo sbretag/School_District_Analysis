@@ -82,7 +82,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Scores_BySchool_Spending.png)
 
 #### New Scores by School Spending
-![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/new_Scores_BySchool_Spending.png)
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Scores_BySchool_Spending.png)
 
 #### New vs Original Scores by School Spending
 - 1
