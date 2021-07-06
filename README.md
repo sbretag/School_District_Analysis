@@ -145,6 +145,13 @@ A school board and Maria have asked us to redo analysis on school and student pe
 
 ## Summary
 
-SUmmarize four changes in the updated school district analysis after reading and math scores for the ninth grade at THomas High School have been replaced with NaNs
+-  Looking at the impact to the overall district, because the removal of Thomas High School 9th grader scores reduced the average reading and math scores, it's safe to say that the scores removed were better than the overall average of all other scores
+-  Looking at the impact to Thomas High School math scores, the scores removed from the analysis were better than the average math score given the average reduced
+-  Looking at the impact to Thomas High School reading scores, the scores removed from the analysis were worse than the average due to the scores improving from the original
+-  Looking at the impact to Thomas High School passing percentages, the % passing for math, reading, and overall all reduced after removing the 9th grader scores, therefore it's safe to say that the scores removed had a higher % of passing scores than the rest of the students at THS.  Furthermore, since THS has the second best overall passing % scores amongst all the schools, the scores removed had some the highest % of passing scores than all other school which could be reason to investigate further
+-  
+-  but worse than the average reading score.
+-   
+-   the The scores removes from the analysis were better than the average math score but worse than the average reading score. Given the drop in passing %'s, it's also clear that had more passing for reading, math, and overall than the rest of the 10th, 11th, and 12th graders.
 
 
