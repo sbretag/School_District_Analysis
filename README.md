@@ -87,10 +87,10 @@ A school board and Maria have asked us to redo analysis on school and student pe
 #### New vs Original Scores by School Spending
 - Because the average spend per student for Thomas High School is $636, the only spending bucket impacted was the $630-$644 range
 - For the $630-$644 range
- - Avg Math score reduced by 2 bps and avg reading score increased by 2 bps
- - % passing math reduced by 2 bps and % passing readying reduced by 7 bps
- - Overall passing % reduced by 8 bps
-- Overall, the change in the analysis does not result in a different story when it comes to spending by student, there does not appear to be relationship between more spending and higher scores, if anything, it's opposite.
+  - Avg Math score reduced by 2 bps and avg reading score increased by 2 bps
+  - % passing math reduced by 2 bps and % passing readying reduced by 7 bps
+  - Overall passing % reduced by 8 bps
+- Overall, removing THS 9th grader scores does not result in a different story when it comes to spending by student, there does not appear to be relationship between more spending and higher scores, if anything, it's opposite.
 
 ### Impact on Scores by School Size
 
@@ -101,6 +101,12 @@ A school board and Maria have asked us to redo analysis on school and student pe
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Scores_BySchool_Size.png)
 
 #### New vs Original Scores by School Size
+- Because the size of Thomas High School is in the medium size group, the only size bucket impacted was the 1,000-2,000 range
+- For the medium size schools
+  - Avg Math score reduced by 1 bps and avg reading score increased by 1 bps
+  - % passing math reduced by 2 bps and % passing readying reduced by 6 bps
+  - Overall passing % reduced by 6 bps
+- Overall, removing THS 9th grader scores does not result in a different story when it comes to school size, medium size schools continue to have the best passing %'s, they also continue to remain just behind small size schools in average scores.
 
 
 ### Impact on Scores by School Type
@@ -112,10 +118,13 @@ A school board and Maria have asked us to redo analysis on school and student pe
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Scores_BySchool_Type.png)
 
 #### New vs Original Scores by School Type
-- 1
-- 2
-- 3
-- 4
+- Because Thomas High School is a charter school, there is only an impact to the charter school category
+- For charter schools
+  - No material change to average math or reading scores
+  - % Passing math reduced by 1 bps
+  - % Passing reading reduced by 4 bps
+  - % Overall passing reduced by 4 bps
+- Overall, removing THS 9th grader scores does not result in a different story when it comes to school type, passing %'s remain significantly higher for charter schools than non charter schools
 
 ## Summary
 
