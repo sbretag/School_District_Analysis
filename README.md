@@ -53,6 +53,19 @@ A school board and Maria have asked us to redo analysis on school and student pe
 
 ### Impact on Scores by Grade
 
+#### Original Scores by Grade (THS Only)
+##### Reading Scores
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Reading_Scores_ByGrade_THS_Only.png)
+##### Math Scores
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Math_Scores_ByGrade_THS_Only.png)
+#### New Scores by Grade (THS Only)
+##### Reading Scores
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Math_Scores_ByGrade_THS_Only.png)
+##### Math Scores
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Math_Scores_ByGrade_THS_Only.png)
+
+
+
 ### Impact on Scores by School Spending
 
 ### Impact on Scores by School Size
