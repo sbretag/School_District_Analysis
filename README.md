@@ -56,21 +56,17 @@ A school board and Maria have asked us to redo analysis on school and student pe
 #### Original Scores by Grade (THS Only)
 ##### Reading Scores
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Reading_Scores_ByGrade_THS_Only.png)
-[View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Reading_Scores_ByGrade.png
-)
+[View Complete Orig Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Reading_Scores_ByGrade.png)
 ##### Math Scores
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Math_Scores_ByGrade_THS_Only.png)
-[View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Math_Scores_ByGrade.png
-)
+[View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Math_Scores_ByGrade.png)
 #### New Scores by Grade (THS Only)
 ##### Reading Scores
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade_THS_Only.png)
-[View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade.png
-)
+[View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade.png)
 ##### Math Scores
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Math_Scores_ByGrade_THS_Only.png)
-[View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade.png
-)
+[View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade.png)
 
 
 
