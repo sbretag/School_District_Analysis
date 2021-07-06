@@ -18,10 +18,10 @@ A school board and Maria have asked us to redo analysis on school and student pe
 ### Impact on District Summary
 
 #### Original District Summary
-![New District Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_District_Summary.png)
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_District_Summary.png)
 
 #### New District Summary
-![New District Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_District_Summary.png)
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_District_Summary.png)
 
 #### New vs Original District Summary
 - No change to total schools, total students or total budget as only the scores were removed for Thomas High School (THS) 9th graders.  The students were still included in the total student count.
@@ -39,7 +39,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 [View Complete Original School Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_School_Summary.png)
 
 #### New School Summary (THS Only)
-![New District Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_School_Summary_THS_Only.png)
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_School_Summary_THS_Only.png)
 [View Complete New School Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_School_Summary.png)
 
 #### New vs Original School Summary
@@ -54,36 +54,72 @@ A school board and Maria have asked us to redo analysis on school and student pe
 ### Impact on Scores by Grade
 
 #### Original Scores by Grade (THS Only)
-##### Reading Scores
+
+##### Orig Reading Scores by Grade
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Reading_Scores_ByGrade_THS_Only.png)
+[View Complete Reading Scores](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Reading_Scores_ByGrade.png)
 
-[View Complete Orig Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Reading_Scores_ByGrade.png)
-##### Math Scores
+##### Orig Math Scores by Grade
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Math_Scores_ByGrade_THS_Only.png)
+[View Complete Math Scores](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Math_Scores_ByGrade.png)
 
-[View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Math_Scores_ByGrade.png)
 #### New Scores by Grade (THS Only)
-##### Reading Scores
+
+##### New Reading Scores
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade_THS_Only.png)
+[View Complete Reading Scores](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade.png)
 
-[View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade.png)
-##### Math Scores
+##### New Math Scores
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Math_Scores_ByGrade_THS_Only.png)
-
-[View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade.png)
+[View Complete Math Scores](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade.png)
 
 #### New vs Original Scores by Grade
 - The only difference is that 9th graders now show NaN in the new analysis for both math and reading scores which was the intent of this analysis
 
-
-
 ### Impact on Scores by School Spending
+
+#### Original Scores by School Spending
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Scores_BySchool_Spending.png)
+
+#### New Scores by School Spending
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/new_Scores_BySchool_Spending.png)
+
+#### New vs Original Scores by School Spending
+- 1
+- 2
+- 3
+- 4
 
 ### Impact on Scores by School Size
 
+#### Original Scores by School Size
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Scores_BySchool_Size.png)
+
+#### New Scores by School Size
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Scores_BySchool_Size.png)
+
+#### New vs Original Scores by School Size
+- 1
+- 2
+- 3
+- 4
+
 ### Impact on Scores by School Type
 
+#### Original Scores by School Type
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_Scores_BySchool_Type.png)
+
+#### New Scores by School Type
+![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Scores_BySchool_Type.png)
+
+#### New vs Original Scores by School Type
+- 1
+- 2
+- 3
+- 4
 
 ## Summary
 
 SUmmarize four changes in the updated school district analysis after reading and math scores for the ninth grade at THomas High School have been replaced with NaNs
+
+
