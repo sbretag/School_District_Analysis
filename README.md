@@ -25,9 +25,10 @@ A school board and Maria have asked us to redo analysis on school and student pe
 
 #### New vs Original District Summary
 - No change to total schools, total students or total budget as only the scores were removed for Thomas High School (THS) 9th graders.  The students were still included in the total student count.
-- Average math score dropped by 10 basis points (bps) and average reading score remained relatively flat
-- % Passing Math and % Passing Reading dropped 20 and 10 bps resepectively
-- Overall passing % dropped by 30 bps
+- Average math and average reading scores dropped by 6 basis points (bps) and 2 bps respectively
+- % Passing Math and % Passing Reading dropped 22 and 15 bps resepectively
+- Overall passing % dropped by 31 bps
+- The impact of removing the THS 9th grader scores appears to be immaterial to overall district performance, overall passing % rounds to 65% in both scenarios
 
 ### Impact on School Summary
 
