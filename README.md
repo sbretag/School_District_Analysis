@@ -12,7 +12,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 - [School Data Source](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/schools_complete.csv)
 - [Studen Data Source](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/students_complete.csv)
 - [Original Code](https://github.com/sbretag/School_District_Analysis/blob/main/PyCitySchools_Original.ipynb)
-- [New_Code](https://github.com/sbretag/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
+- [New Code](https://github.com/sbretag/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 - Software: Jupyter Lab, Python 3.8.8
 
 ## Results
