@@ -43,7 +43,13 @@ A school board and Maria have asked us to redo analysis on school and student pe
 [View Complete New School Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_School_Summary.png)
 
 #### New vs Original School Summary
-
+- No change to School Type, Total Students, Total School Budget, or Per Student Budget amounts.
+- 7 bps decrease in average math score
+- 5 bps increase in average reading score
+- 9 bps decrease in % passing math
+- 29 bps decrease in % passing reading
+- 32 bps decrease in overall passing %
+ 
 
 ### Impact on Scores by Grade
 
