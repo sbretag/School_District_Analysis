@@ -15,7 +15,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 
 ## Results
 
-### Affects on District Summary
+### Impact on District Summary
 
 #### Original District Summary
 ![New District Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_District_Summary.png)
@@ -29,20 +29,29 @@ A school board and Maria have asked us to redo analysis on school and student pe
 - % Passing Math and % Passing Reading dropped 20 and 10 bps resepectively
 - Overall passing % dropped by 3 bps
 
-### Affects on School Summary
+### Impact on School Summary
 
 
-### Affects on Thomas High School's Performance Relative to Other Schools
+### Impact on Thomas High School's Performance Relative to Other Schools
+
+#### Original School Summary (THS Only)
+![New District Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_School_Summary_THS_Only.png)
+[View Complete Original School Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_School_Summary.png)
+
+#### New School Summary (THS Only)
+![New District Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_School_Summary_THS_Only.png)
+[View Complete New School Summary](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_School_Summary.png)
+
+#### New vs Original School Summary
 
 
-### Affects on Scores by Grade
+### Impact on Scores by Grade
 
+### Impact on Scores by School Spending
 
-### Affects on Scores by School Spending
+### Impact on Scores by School Size
 
-### Affects on Scores by School Size
-
-### Affects on Scores by School Type
+### Impact on Scores by School Type
 
 
 ## Summary
