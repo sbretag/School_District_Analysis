@@ -140,6 +140,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Top5.png)
 
 #### New vs Original Top 5 Schools
+- Despite the reduction in scores as a result of removing the 9th grader scores at Thomas High School, they continue to rank 2nd when it comes to overall passing %
 
 
 ## Summary
