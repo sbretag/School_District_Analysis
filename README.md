@@ -72,7 +72,8 @@ A school board and Maria have asked us to redo analysis on school and student pe
 
 [View Complete Original Reading Scores by Grade](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Reading_Scores_ByGrade.png)
 
-
+#### New vs Original Scores by Grade
+- The only difference is that 9th graders now show NaN in the new analysis for both math and reading scores which was the intent of this analysis
 
 
 
