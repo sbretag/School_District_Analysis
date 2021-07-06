@@ -87,7 +87,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 #### New vs Original Scores by School Spending
 - Because the average spend per student for Thomas High School is $636, the only spending bucket impacted was the $630-$644 range
 - For the $630-$644 range
- - Avg Math score reduced by 2 bps and avg reading score increased by 2 bps
+- - Avg Math score reduced by 2 bps and avg reading score increased by 2 bps
  - % passing math reduced by 2 bps and % passing readying reduced by 7 bps
  - Overall passing % reduced by 8 bps
 - Overall, the change in the analysis does not result in a different story when it comes to spending by student, there does not appear to be relationship between more spending and higher scores, if anything, it's opposite.
@@ -101,7 +101,7 @@ A school board and Maria have asked us to redo analysis on school and student pe
 ![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_Scores_BySchool_Size.png)
 
 #### New vs Original Scores by School Size
-
+- 
 
 ### Impact on Scores by School Type
 
